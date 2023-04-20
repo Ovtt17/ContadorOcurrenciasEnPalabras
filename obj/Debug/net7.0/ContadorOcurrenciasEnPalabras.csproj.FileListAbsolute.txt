@@ -1,0 +1,15 @@
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-4\ContadorOcurrenciasEnPalabras\bin\Debug\net7.0\ContadorOcurrenciasEnPalabras.exe
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-4\ContadorOcurrenciasEnPalabras\bin\Debug\net7.0\ContadorOcurrenciasEnPalabras.deps.json
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-4\ContadorOcurrenciasEnPalabras\bin\Debug\net7.0\ContadorOcurrenciasEnPalabras.runtimeconfig.json
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-4\ContadorOcurrenciasEnPalabras\bin\Debug\net7.0\ContadorOcurrenciasEnPalabras.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-4\ContadorOcurrenciasEnPalabras\bin\Debug\net7.0\ContadorOcurrenciasEnPalabras.pdb
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-4\ContadorOcurrenciasEnPalabras\obj\Debug\net7.0\ContadorOcurrenciasEnPalabras.csproj.AssemblyReference.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-4\ContadorOcurrenciasEnPalabras\obj\Debug\net7.0\ContadorOcurrenciasEnPalabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-4\ContadorOcurrenciasEnPalabras\obj\Debug\net7.0\ContadorOcurrenciasEnPalabras.AssemblyInfoInputs.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-4\ContadorOcurrenciasEnPalabras\obj\Debug\net7.0\ContadorOcurrenciasEnPalabras.AssemblyInfo.cs
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-4\ContadorOcurrenciasEnPalabras\obj\Debug\net7.0\ContadorOcurrenciasEnPalabras.csproj.CoreCompileInputs.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-4\ContadorOcurrenciasEnPalabras\obj\Debug\net7.0\ContadorOcurrenciasEnPalabras.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-4\ContadorOcurrenciasEnPalabras\obj\Debug\net7.0\refint\ContadorOcurrenciasEnPalabras.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-4\ContadorOcurrenciasEnPalabras\obj\Debug\net7.0\ContadorOcurrenciasEnPalabras.pdb
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-4\ContadorOcurrenciasEnPalabras\obj\Debug\net7.0\ContadorOcurrenciasEnPalabras.genruntimeconfig.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-4\ContadorOcurrenciasEnPalabras\obj\Debug\net7.0\ref\ContadorOcurrenciasEnPalabras.dll
